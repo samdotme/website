@@ -25,7 +25,7 @@ content_template: templates/task
 
 * Run etcd as a cluster of odd members.
 
-* etcd is a leader-based distributed system. Ensure that the leader periodically send heartbeats on time to all followers to keep the cluster stable.
+* etcd is a leader-based distributed system. Ensure that the leader periodically sends heartbeats on time to all followers to keep the cluster stable.
 
 * Ensure that no resource starvation occurs.
 
